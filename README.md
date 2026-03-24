@@ -30,10 +30,23 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jinwonnnnnnn&theme=tokyonight&hide_border=false&border_radius=10" height="180" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinwonnnnnnn&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
