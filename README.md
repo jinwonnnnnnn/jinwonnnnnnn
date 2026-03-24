@@ -50,10 +50,3 @@
 </div>
 
 ---
-
-## Recent Issues & Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
