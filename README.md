@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&border_radius=10" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinwonnnnnnn&theme=tokyonight&hide_border=false&border_radius=10" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=jinwonnnnnnn&theme=tokyonight&hide_border=false&border_radius=10" height="180" />
 </div>
 
 ---
