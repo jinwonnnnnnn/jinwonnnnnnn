@@ -28,16 +28,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-
-### Library
-
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logoColor=white)
-
-### Tools
-
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
