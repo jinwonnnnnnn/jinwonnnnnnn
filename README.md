@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinwonnnnnnn&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinwonnnnnnn&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
