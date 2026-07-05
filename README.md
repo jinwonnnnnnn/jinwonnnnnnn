@@ -40,8 +40,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&theme=tokyonight&layout=compact&hide_border=true" height="180" />
+  <img src="https://metrics.lecoq.io/jinwonnnnnnn?template=classic&languages=1&stars=1&lines=1&repositories=0&base.indepth=false&languages.colors=github&languages.threshold=0%25&languages.limit=8&languages.sections=most-used&languages.details=percentage&languages.ignored=html%2Ccss&config.timezone=Asia%2FSeoul" />
 </div>
 
 <div align="center">
