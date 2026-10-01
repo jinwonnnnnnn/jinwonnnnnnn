@@ -49,7 +49,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinwonnnnnnn&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinwonnnnnnn&theme=tokyonight" width="100%" />
 </div>
 
 ---
